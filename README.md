@@ -1,1 +1,1 @@
-[![example workflow](https://github.com/ross0maha/hexlet_pytest/.github/workflows/hello-world.yml/badge.svg)](https://github.com/ross0maha/hexlet_pytest/actions)
+[![Github Actions Status](https://github.com/ross0maha/hexlet_pytest/.github/workflows/hello-world.yml/badge.svg)](https://github.com/ross0maha/hexlet_pytest/actions)
