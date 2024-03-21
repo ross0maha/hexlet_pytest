@@ -1,4 +1,5 @@
 import pytest
+from hexlet_pytest.stack import stack
 
 
 def test_stack1():
